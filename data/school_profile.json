@@ -1,0 +1,63 @@
+{
+  "short_bio": "Yayasan Bumi Ilmu adalah institusi pendidikan menengah berbasis keislaman modern yang memadukan keunggulan kurikulum nasional, pembiasaan adab salaf, penguasaan literasi digital, dan pembinaan tahfidzul Qur'an dalam lingkungan asri nan tenang di kaki Gunung Pangrango, Bogor.",
+  "founded_year": 2022,
+  "history": "Berdiri pada tahun 2022 di bawah naungan Yayasan Bumi Ilmu, lembaga ini lahir dari kepedulian para cendekiawan muslim dan pendidik terhadap pendidikan yang membentuk santri secara utuh. Dengan semangat “adab dan ilmu”, pendidikan diarahkan untuk menumbuhkan jiwa yang dekat kepada Allah, berpikir kritis, peka dan kreatif, serta raga yang sehat dan tangguh.\n\nDalam suasana belajar yang nyaman dan didukung lingkungan yang asri, Yayasan Bumi Ilmu menghadirkan pendidikan yang memadukan nilai agama, akademik, keterampilan, kreativitas, kemandirian, serta pembinaan jasmani sebagai bekal santri untuk tumbuh menjadi pribadi yang berilmu, beradab, mandiri, dan bermanfaat bagi umat.",
+  "vision": "Membangun pusat pembinaan & pendidikan (ilmu) untuk anak2 yatim/dhuafa dan mewujudkan model pemelihara keseimbangan alam (bumi) sesuai dengan Dinnul Islam",
+  "missions": [
+    "Membangun & menyiapkan pendidikan agama dan umum (karakter, kompetensi dan kerjasama) supaya menjadi anak-anak yang sholih/sholihah, sehat, kuat, berilmu, dan mandiri.",
+    "Mengimplementasikan model kemandirian pondok dengan memanfaatkan kekayaan olah pikir & bumi.",
+    "Memberikan manfaat untuk keharmonisan lingkungan Pondok Bumi Ilmu."
+  ],
+  "arabic_quote": {
+    "text": "تَعَلَّمُوا الأَدَبَ قَبْلَ أَنْ تَتَعَلَّمُوا العِلْمَ",
+    "translation": "\"Pelajarilah adab sebelum kalian mempelajari suatu cabang ilmu.\" (Imam Malik rahimahullah)"
+  },
+  "educational_values": [
+    {
+      "key": "ilmu",
+      "title": "Ilmu & Wawasan",
+      "description": "Menanamkan rasa ingin tahu yang sehat, kecakapan berpikir kritis, literasi digital, dan kesungguhan menuntut ilmu syar'i maupun kauniyyah.",
+      "badge": "Intelektual"
+    },
+    {
+      "key": "adab",
+      "title": "Adab & Akhlak",
+      "description": "Adab mendahului ilmu. Santri dibiasakan menghormati guru, mengasihi teman sebaya, bertutur kata santun, dan menjaga amanah.",
+      "badge": "Fondasi Karakter"
+    },
+    {
+      "key": "ibadah",
+      "title": "Ibadah & Ma'rifat",
+      "description": "Membiasakan shalat berjamaah tepat waktu, tilawah harian, shaum sunnah, dan zikir pagi-petang sebagai nafas hidup keseharian.",
+      "badge": "Spiritualitas"
+    },
+    {
+      "key": "kemandirian",
+      "title": "Kemandirian & Tanggung Jawab",
+      "description": "Melatih santri mengurus diri sendiri, menjaga kebersihan asrama, mengatur waktu, dan sigap memecahkan masalah tanpa ketergantungan berlebih.",
+      "badge": "Life Skills"
+    }
+  ],
+  "leadership": [
+    {
+      "name": "Dr. H. Ahmad Farhan, M.A.",
+      "role": "Ketua Dewan Pembina Yayasan",
+      "credential": "Alumni Univ. Al-Azhar Kairo & UIN Syarif Hidayatullah"
+    },
+    {
+      "name": "Ust. Rahmat Hidayat, Lc., M.Pd.",
+      "role": "Kepala Sekolah & Mudir Pesantren",
+      "credential": "Pendidik Senior Keislaman & Praktisi Kurikulum Terpadu"
+    },
+    {
+      "name": "Siti Nurhalizah, S.Si., M.Pd.",
+      "role": "Wakil Kepala Bidang Kurikulum & Akademik",
+      "credential": "Magister Pendidikan Sains, Penggerak STEAM Education"
+    },
+    {
+      "name": "Ust. Salman Al-Farisi, S.Pd.I., Al-Hafizh",
+      "role": "Koordinator Tahfidz & Pengasuhan Santri",
+      "credential": "Hafizh 30 Juz Bersanad Qira'ah Imam Ashim riwayat Hafsh"
+    }
+  ]
+}

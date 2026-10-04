@@ -1,0 +1,29 @@
+[
+  {
+    "id": "news-01",
+    "title": "Wisuda Tahfidz & Khotmil Qur'an Angkatan VIII: Menjaga Kalam Ilahi di Era Digital",
+    "slug": "wisuda-tahfidz-khotmil-quran-angkatan-viii",
+    "category": "Keislaman",
+    "date": "24 September 2026",
+    "excerpt": "Sebanyak 38 santri SMP Yayasan Bumi Ilmu sukses menyelesaikan munaqosyah tahfidz 5 hingga 10 juz dengan predikat mutqin disaksikan haru oleh para wali santri.",
+    "read_time": "3 menit"
+  },
+  {
+    "id": "news-02",
+    "title": "Santri Bumi Ilmu Raih Medali Emas Olimpiade Sains & Lingkungan Nasional 2026",
+    "slug": "medali-emas-olimpiade-sains-lingkungan-2026",
+    "category": "Prestasi",
+    "date": "15 September 2026",
+    "excerpt": "Inovasi pupuk organik cair dan pemantau kelembaban tanah cerdas berbasis mikrokontroler karya tim riset santri kelas 8 berhasil mengungguli ratusan peserta se-Indonesia.",
+    "read_time": "4 menit"
+  },
+  {
+    "id": "news-03",
+    "title": "Kunjungan Edukatif & Bakti Sosial Santri di Kawasan Cisarua Hijau",
+    "slug": "kunjungan-edukatif-bakti-sosial-cisarua",
+    "category": "Kegiatan Sosial",
+    "date": "08 September 2026",
+    "excerpt": "Santri membagikan bibit pohon dan perlengkapan ibadah untuk musholla lokal sebagai bagian dari pendidikan khidmat dan kepedulian lingkungan.",
+    "read_time": "2 menit"
+  }
+]

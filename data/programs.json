@@ -1,0 +1,66 @@
+{
+  "categories": [
+    {
+      "id": "jiwa",
+      "pilar_label": "Pilar Olah Jiwa",
+      "title": "Olah Jiwa",
+      "tagline": "Pendidikan Agama dan Akhlak",
+      "description": "Pembinaan ruhiyah santri melalui penanaman akidah yang lurus, ibadah praktis, pembiasaan akhlak karimah, serta program tahfidzul Qur'an mutqin yang membimbing jiwa agar senantiasa dekat kepada Allah ta'ala."
+    },
+    {
+      "id": "rasio",
+      "pilar_label": "Pilar Olah Rasio",
+      "title": "Olah Rasio",
+      "tagline": "Pendidikan Semi Formal",
+      "description": "Pengasahan daya nalar, kecerdasan intelektual, dan penguasaan sains serta bahasa melalui pembelajaran terstruktur yang mengintegrasikan kurikulum akademik esensial dengan pemikiran kritis islami."
+    },
+    {
+      "id": "rasa",
+      "pilar_label": "Pilar Olah Rasa",
+      "title": "Olah Rasa",
+      "tagline": "Pendidikan Keterampilan",
+      "description": "Pengembangan kepekaan rasa, kreativitas, dan kecakapan hidup (life skills) santri melalui karya seni bernilai Islami, literasi komunikasi, serta kemandirian wirausaha dan karya terapan praktis."
+    },
+    {
+      "id": "raga",
+      "pilar_label": "Pilar Olah Raga",
+      "title": "Olah Raga",
+      "tagline": "Pendidikan Jasmani",
+      "description": "Pembinaan kebugaran fisik, ketahanan jasmani, dan disiplin santri melalui olahraga sunnah, kepanduan, dan aktivitas luar ruangan untuk membentuk pribadi yang sehat, kuat, dan tangguh."
+    }
+  ],
+  "featured_programs": [
+    {
+      "title": "Tahfidzul Qur'an Mutqin",
+      "category": "Keislaman",
+      "highlight": "Target minimal 2 juz",
+      "description": "Metode bimbingan talaqqi bersama huffazh dengan halaqah kecil setiap pagi dan petang."
+    },
+    {
+      "title": "Bilingual Immersion (Arab & Inggris)",
+      "category": "Bahasa",
+      "highlight": "Kultur Percakapan Harian",
+      "description": "Penerapan hari berbahasa asing bergiliran, debat ilmiah, dan storytelling untuk membangun kepercayaan diri santri berinteraksi di kancah global."
+    },
+    {
+      "title": "Science & Islamic Ecological Lab",
+      "category": "Akademik",
+      "highlight": "Riset Ekologi Lingkungan",
+      "description": "Eksplorasi sains terapan di laboratorium terbuka alam: observasi botani, komposting, hidroponik, dan fisika sederhana."
+    },
+    {
+      "title": "Islamic Character & Social Khidmat",
+      "category": "Karakter",
+      "highlight": "Pengabdian Desa Binaan",
+      "description": "Santri diterjunkan secara terprogram dalam bakti sosial, mengajar mengaji anak desa sekitar, dan aksi kepedulian lingkungan hidup."
+    }
+  ],
+  "extracurriculars": [
+    { "name": "Panahan (Sunnah Archery)", "category": "Olahraga", "frequency": "2x seminggu" },
+    { "name": "Bela Diri Tapak Suci / Silat", "category": "Kebugaran & Disiplin", "frequency": "1x seminggu" },
+    { "name": "Klub Robotika & Koding Pemula", "category": "Teknologi", "frequency": "1x seminggu" },
+    { "name": "Jurnalistik & Fotografi Edukatif", "category": "Media & Karya", "frequency": "1x seminggu" },
+    { "name": "Pramuka Islami / Hizbul Wathan", "category": "Kepanduan Wajib", "frequency": "1x seminggu" },
+    { "name": "Khat & Seni Kaligrafi Arab", "category": "Seni Islam", "frequency": "1x seminggu" }
+  ]
+}

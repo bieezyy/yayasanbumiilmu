@@ -1,0 +1,24 @@
+{
+  "site_name": "Yayasan Bumi Ilmu",
+  "short_name": "Bumi Ilmu",
+  "tagline": "Membentuk Generasi Berilmu, Beradab, dan Berkarakter",
+  "npsn": "69987654",
+  "foundation_name": "Yayasan Bumi Ilmu",
+  "contact": {
+    "phone": "+62 811-267-133",
+    "whatsapp": "62811267133",
+    "whatsapp_display": "+62 811-267-133",
+    "email": "info@bumiilmu.sch.id",
+    "address": "Jl. Cikaso Kp. Panyingkiran RT01 RW07 Pasir Impun Atas Ds. Cikadut Kec. Cimenyan Kab. Bandung",
+    "office_hours": "Senin - Sabtu: 07.30 - 16.00 WIB (Ahad & Libur Nasional Tutup)",
+    "google_maps_url": "https://maps.app.goo.gl/xayPTRQH8qyoeYau6"
+  },
+  "social_media": {
+    "instagram": "https://instagram.com/bumiilmu_official",
+    "youtube": "https://youtube.com/@bumiilmu",
+    "facebook": "https://facebook.com/yayasanbumiilmu"
+  },
+  "modules": {
+    "pesantren_enabled": true
+  }
+}

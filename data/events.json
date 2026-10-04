@@ -1,0 +1,29 @@
+[
+  {
+    "id": "ev-01",
+    "title": "Sosialisasi & Open Day PPDB TA 2026/2027",
+    "date": "10 Oktober 2026",
+    "time": "08.30 - 12.00 WIB",
+    "location": "Auditorium Utama & Kampus Asrama Bumi Ilmu",
+    "category": "PPDB & Silaturahmi",
+    "description": "Temu tatap muka calon wali murid bersama dewan pembina yayasan, pemaparan kurikulum terpadu, dan tur fasilitas asrama."
+  },
+  {
+    "id": "ev-02",
+    "title": "Khotmil Qur'an & Doa Bersama Awal Semester",
+    "date": "24 Oktober 2026",
+    "time": "04.30 - 07.00 WIB",
+    "location": "Masjid Jami' Yayasan Bumi Ilmu",
+    "category": "Keagamaan",
+    "description": "Munajat santri, asatidz, dan wali santri untuk keberkahan menuntut ilmu dan istiqomah dalam hafalan Al-Qur'an."
+  },
+  {
+    "id": "ev-03",
+    "title": "Gelar Karya Sains & Kewirausahaan Sosial Santri",
+    "date": "14 November 2026",
+    "time": "09.00 - 15.00 WIB",
+    "location": "Plaza Kampus Terpadu",
+    "category": "Pendidikan & Karya",
+    "description": "Pameran hasil karya sains terapan, robotika, panen kebun hidroponik, dan karya kaligrafi santri tingkat SMP."
+  }
+]

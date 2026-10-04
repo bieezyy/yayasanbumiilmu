@@ -1,0 +1,44 @@
+[
+  {
+    "id": "gal-01",
+    "title": "Halaqah Tahfidz Pagi di Masjid Jami'",
+    "category": "Keislaman",
+    "date": "September 2026",
+    "caption": "Muroja'ah dan talaqqi setoran hafalan Al-Qur'an santri ba'da shalat Subuh berjamaah."
+  },
+  {
+    "id": "gal-02",
+    "title": "Praktikum Sains & Mikroskopik Laboratorium",
+    "category": "Akademik",
+    "date": "September 2026",
+    "caption": "Santri mengamati struktur sel tanaman herbal di laboratorium biologi terpadu."
+  },
+  {
+    "id": "gal-03",
+    "title": "Latihan Olahraga Memanah (Archery Sunnah)",
+    "category": "Olahraga",
+    "date": "Agustus 2026",
+    "caption": "Pembinaan ketangkasan dan fokus mental melalui olahraga panahan di lapangan terbuka kampus."
+  },
+  {
+    "id": "gal-04",
+    "title": "Perawatan Kebun Sayur Organik Asrama",
+    "category": "Kemandirian",
+    "date": "Agustus 2026",
+    "caption": "Santri belajar bercocok tanam hidroponik dan merawat tanaman obat keluarga."
+  },
+  {
+    "id": "gal-05",
+    "title": "Bakti Sosial & Santunan Masyarakat Cisarua",
+    "category": "Khidmat Sosial",
+    "date": "Juli 2026",
+    "caption": "Penyaluran bingkisan sembako dan perlengkapan sekolah santri untuk warga sekitar."
+  },
+  {
+    "id": "gal-06",
+    "title": "Makan Bersama & Budaya Adab Santri di Ruang Makan",
+    "category": "Kehidupan Santri",
+    "date": "September 2026",
+    "caption": "Pembiasaan adab makan sunnah: duduk rapi, membaca doa, menggunakan tangan kanan, dan mencuci wadah sendiri."
+  }
+]

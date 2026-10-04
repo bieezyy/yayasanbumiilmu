@@ -1,0 +1,49 @@
+{
+  "title": "Pesantren & Kehidupan Asrama Santri",
+  "tagline": "Membina Ruhiyah, Adab Salaf, Kemandirian, dan Kedisiplinan 24 Jam",
+  "introduction": "Berdiri pada tahun 2022 di bawah naungan Yayasan Bumi Ilmu, program pesantren hadir dari kepedulian para pendidik dan cendekiawan muslim terhadap pendidikan remaja yang membentuk pribadi secara utuh. Dengan semangat “beradab sebelum berilmu”, santri tingkat SMP dibimbing dalam lingkungan asrama yang nyaman, hangat, penuh kekeluargaan, dan asri.\n\nMelalui pendampingan musyrif selama 24 jam, santri dibiasakan menjalankan ibadah secara mandiri, mencintai Al-Qur’an, menjaga adab bermuamalah, serta mengembangkan kemampuan akademik, keterampilan, dan kemandirian. Seluruh proses ini diarahkan untuk membentuk jiwa, akal, rasa, dan raga yang sehat sebagai bekal menjadi pribadi yang berilmu, beradab, dan bermanfaat.\n\nAyah dan Bunda, pendidikan anak adalah perjalanan yang kita jalani bersama. Di Bumi Ilmu, kami tidak menggantikan peran orang tua, tetapi hadir sebagai mitra dalam mendampingi tumbuh kembang putra-putri. Melalui komunikasi dan keterlibatan yang terus terjaga, Ayah dan Bunda tetap dekat dengan proses belajar, pembiasaan, dan perkembangan mereka. Mari bersama-sama menemani mereka tumbuh, selangkah demi selangkah, menjadi pribadi yang lebih dekat kepada Allah, mandiri, dan siap menghadapi masa depan.",
+  "daily_rhythm": [
+    { "time": "03.30 - 04.30", "activity": "Bangun Tidur & Qiyamullail", "description": "Membiasakan tahajjud, witir, dan muhasabah diri di sepertiga malam terakhir." },
+    { "time": "04.30 - 05.30", "activity": "Shalat Subuh & Al-Matsurat", "description": "Shalat berjamaah di masjid, membaca dzikir pagi, dan nasihat pembuka hari dari asatidz." },
+    { "time": "05.30 - 06.30", "activity": "Halaqah Tahfidz & Muroja'ah", "description": "Setoran hafalan baru (ziyadah) dan pengulangan hafalan lama bersama musyrif." },
+    { "time": "06.30 - 07.15", "activity": "Piket Asrama, Mandi & Sarapan", "description": "Melatih kebersihan kamar santri, mencuci wadah makan sendiri, dan persiapan KBM." },
+    { "time": "07.30 - 15.30", "activity": "KBM Formal & Praktikum", "description": "Pembelajaran akademik terpadu kurikulum nasional, sains, dan istirahat Dzuhur berjamaah." },
+    { "time": "15.30 - 17.30", "activity": "Ashar, Olahraga & Mandiri", "description": "Shalat Ashar berjamaah, panahan, beladiri, sepakbola, atau merawat kebun asrama." },
+    { "time": "18.00 - 19.30", "activity": "Maghrib & Kajian Adab/Kitab", "description": "Membaca Al-Qur'an, ta'lim fiqih ibadah praktis mazhab Syafi'i, dan adab penuntut ilmu." },
+    { "time": "19.30 - 20.30", "activity": "Isya Berjamaah & Makan Malam", "description": "Makan malam bersama santri dengan menerapkan adab makan sunnah." },
+    { "time": "20.30 - 21.30", "activity": "Belajar Mandiri & Muroja'ah", "description": "Mengulang materi pelajaran sekolah dan persiapan setoran tahfidz esok hari." },
+    { "time": "21.30 - 03.30", "activity": "Adab Tidur & Istirahat Malam", "description": "Membaca doa sebelum tidur, berwudhu, dan istirahat malam teratur demi kesehatan fisik." }
+  ],
+  "facilities": [
+    { "name": "Masjid Jami' Baitul Ilmi", "desc": "Pusat spiritual, shalat berjamaah 5 waktu, dan halaqah Al-Qur'an." },
+    { "name": "Asrama Santri Bersih & Sejuk", "desc": "Kamar berlantai keramik, ventilasi alami pegunungan, ranjang bertingkat kokoh, dan lemari pribadi santri." },
+    { "name": "Dapur & Ruang Makan Terpusat", "desc": "Penyediaan makanan higienis 3x sehari dengan menu bergizi terstandarisasi ahli nutrisi." },
+    { "name": "Laboratorium Komputer & Sains", "desc": "Akses komputasi terjadwal untuk riset ilmiah dan pengembangan literasi digital terkontrol." },
+    { "name": "Lapangan Olahraga Terbuka", "desc": "Fasilitas panahan sunnah, lapangan futsal rumput, dan area latihan bela diri." },
+    { "name": "Perpustakaan", "desc": "Koleksi kitab rujukan keislaman, literatur sains, buku pengayaan umum, dan ruang baca santri yang tenang dan nyaman." }
+  ],
+  "rules_and_conduct": [
+    "Menjalankan ibadah wajib sholat fardhu berjama’ah di Mesjid/Mushala, dan shaum Ramadhan.",
+    "Sangat disarankan menjalankan ibadah sunat, minimal sholat Tahajud dan Dhuha serta ibadah shaum sunat Senin dan Kamis.",
+    "Menjalankan kewajiban harian santri sesuai pembagian tugas yang diberikan Pondok.",
+    "Mengikuti seluruh kegiatan yang diadakan di dalam Pondok termasuk olahraga, ketrampilan dan kerjabakti/kegiatan-kegiatan sosial.",
+    "Menjaga akhlak/sopan santun dan adab Islami dalam semua kegiatan.",
+    "Berpakaian sopan dan rapi serta memakai seragam belajar yang bersih di setiap hari Jumat.",
+    "Menjaga hubungan baik/silaturahmi antar siswa, dengan pengajar maupun dengan tetangga/masyarakat sekitar Pondok.",
+    "Menjauhkan diri dari perbuatan buruk dan kemaksiatan.",
+    "Menjaga kebersihan diri dan lingkungan serta keamanan lingkungan Pondok.",
+    "Memahami nilai-nilai Pancasila dan menerapkannya dalam kehidupan sehari-hari.",
+    "Mencintai dan menjaga keutuhan Negara Kesatuan Republik Indonesia."
+  ],
+  "prohibitions": [
+    "Berambut panjang bagi santri dan berkuku panjang.",
+    "Mengecat rambut.",
+    "Membawa dan menggunakan handphone diluar waktu yang diperbolehkan.",
+    "Saling mengejek atau intimidasi/mengancam antar sesama siswa (bullying).",
+    "Tidak mengikuti kegiatan Pondok tanpa alasan yang diperbolehkan.",
+    "Keluar atau meninggalkan pondok tanpa ijin Pengurus atau Pengajar.",
+    "Terlibat tawuran atau paham radikal yg bisa mengganggu keutuhan Negara.",
+    "Merusak dan/atau mengambil barang yg bukan haknya, termasuk milik Pondok.",
+    "Terlibat dengan tindakan tidak terpuji termasuk merokok, perkelahian, perjudian, miras, narkoba."
+  ]
+}

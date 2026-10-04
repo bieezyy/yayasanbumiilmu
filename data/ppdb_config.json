@@ -1,0 +1,88 @@
+{
+  "academic_year": "2026/2027",
+  "status": "active",
+  "headline": "Penerimaan Peserta Didik Baru (PPDB)",
+  "badge_text": "Pendaftaran Gelombang I Dibuka",
+  "subheadline": "Bergabunglah bersama keluarga besar Yayasan Bumi Ilmu untuk pendidikan berwawasan global yang berakar pada nilai-nilai Islam.",
+  "start_date": "1 Oktober 2026",
+  "end_date": "31 Desember 2026",
+  "whatsapp_message": "Assalamu'alaikum Warahmatullahi Wabarakatuh. Saya ingin menanyakan informasi pendaftaran santri baru SMP/Pesantren Yayasan Bumi Ilmu untuk Tahun Ajaran 2026/2027.",
+  "waves": [
+    {
+      "name": "Gelombang I (Jalur Prestasi & Reguler)",
+      "period": "1 Oktober - 31 Desember 2026",
+      "status": "Dibuka",
+      "quota": "60 Santri/Siswa"
+    },
+    {
+      "name": "Gelombang II (Reguler)",
+      "period": "1 Januari - 28 Februari 2027",
+      "status": "Akan Datang",
+      "quota": "Sisa Kuota"
+    }
+  ],
+  "steps": [
+    {
+      "step_number": 1,
+      "title": "Pengisian Formulir & Berkas",
+      "description": "Mengisi formulir data diri calon siswa secara online atau datang langsung ke sekretariat PPDB dengan melampirkan berkas persyaratan."
+    },
+    {
+      "step_number": 2,
+      "title": "Observasi & Pemetaan Santri",
+      "description": "Mengikuti tes kemampuan dasar akademik, baca Al-Qur'an (tahsin dasar), serta wawancara komitmen orang tua & kesiapan santri."
+    },
+    {
+      "step_number": 3,
+      "title": "Pengumuman Hasil Seleksi",
+      "description": "Hasil seleksi diumumkan secara transparan melalui portal resmi dan konfirmasi surat keputusan via WhatsApp resmi panitia."
+    },
+    {
+      "step_number": 4,
+      "title": "Daftar Ulang & Pengambilan Seragam",
+      "description": "Melakukan konfirmasi kesediaan, penyelesaian administrasi daftar ulang, serta pengukuran perlengkapan santri/siswa."
+    }
+  ],
+  "requirements": [
+    "Berusia maksimal 12 tahun.",
+    "Menyerahkan kelengkapan identitas santri/santriwati, yang meliputi:\n• Asli dan fotokopi Akte Kelahiran/Kenal Lahir dari calon santri/santriwati\n• Asli buku rapor (bagi yang sudah dimiliki calon santri/santriwati)\n• Asli dan fotokopi ijazah serta penghargaan (bagi yang sudah memiliki)\n• Fotokopi Kartu Keluarga/wali\n• Fotokopi KTP orang tua/wali",
+    "Memahami dan menandatangani Surat Pernyataan Kesediaan santri/santriwati.",
+    "Menandatangani Berita Acara Penyerahan santri/santriwati dari pihak Orang Tua/wali ke Pelaksana Harian Pondok Bumi Ilmu."
+  ],
+  "fee_structure": [
+    {
+      "item": "Infaq Pembangunan & Pengembangan Sarana (Sekali)",
+      "amount": "Rp 9.500.000",
+      "notes": "Dapat dicicil selama semester 1"
+    },
+    {
+      "item": "Biaya Perlengkapan, Buku & Seragam Lengkap",
+      "amount": "Rp 2.800.000",
+      "notes": "Mencakup 4 stel seragam, baju olahraga & modul belajar"
+    },
+    {
+      "item": "Iuran Bulanan (SPP & Program Pendidikan)",
+      "amount": "Rp 950.000 / bulan",
+      "notes": "Termasuk kegiatan ekstrakurikuler & bimbingan tahfidz"
+    },
+    {
+      "item": "Biaya Konsumsi & Asrama (Khusus Program Pesantren/Boarding)",
+      "amount": "Rp 1.250.000 / bulan",
+      "notes": "Makan 3x sehari, laundry seragam, pengasuhan musyrif 24 jam"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Apakah calon siswa wajib sudah lancar membaca Al-Qur'an?",
+      "answer": "Tidak diwajibkan hafal banyak juz saat mendaftar, namun santri diharapkan telah mengenal huruf hijaiyah dasar. Sekolah menyediakan bimbingan matrikulasi tahsin intensif di awal masuk."
+    },
+    {
+      "question": "Apakah sekolah menerima siswa non-asrama (Full Day School)?",
+      "answer": "Ya, kami menyediakan dua pilihan program: Program Reguler Full-Day (07.00 - 15.30 WIB) dan Program Pesantren / Boarding (asrama penuh 24 jam)."
+    },
+    {
+      "question": "Bagaimana prosedur beasiswa atau potongan biaya?",
+      "answer": "Kami menyediakan beasiswa jalur tahfidz (minimal 3 juz mutqin) dan beasiswa prestasi sains/olahraga tingkat minimal kota/kabupaten berupa potongan infaq pembangunan."
+    }
+  ]
+}

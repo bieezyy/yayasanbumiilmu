@@ -1,0 +1,86 @@
+[
+  {
+    "id": "sc-01",
+    "title": "Purwarupa Irigasi Cerdas Kebun Herbal Pesantren",
+    "category": "student_projects",
+    "student_name": "Raihan & Zaid (Tim Robotika)",
+    "grade": "Kelas 8 SMP",
+    "summary": "Proyek mikrokontroler berbasis sensor kelembaban tanah untuk mengotomasi penyiraman kebun herbal organik santri.",
+    "media_type": "image",
+    "tag": "Sains & Teknologi",
+    "privacy_consent_verified": true,
+    "published_at": "September 2026"
+  },
+  {
+    "id": "sc-02",
+    "title": "Khotmil Qur'an Juz 30 & Talaqqi Surah Pilihan",
+    "category": "islamic",
+    "student_name": "Hafizh & Halaqah 3",
+    "grade": "Kelas 7 SMP",
+    "summary": "Dokumentasi setoran tasmi' hafalan Al-Qur'an sekali duduk dihadapan dewan asatidz pembina tahfidz.",
+    "media_type": "image",
+    "tag": "Tahfidzul Qur'an",
+    "privacy_consent_verified": true,
+    "published_at": "Agustus 2026"
+  },
+  {
+    "id": "sc-03",
+    "title": "Kaligrafi Kontemporer Mushaf Surat Al-Alaq",
+    "category": "creativity",
+    "student_name": "Maryam",
+    "grade": "Kelas 9 SMP",
+    "summary": "Karya seni khat Tsuluts dipadukan dengan iluminasi motif floral nusantara menggunakan tinta alami.",
+    "media_type": "image",
+    "tag": "Seni Khat Islam",
+    "privacy_consent_verified": true,
+    "published_at": "September 2026"
+  },
+  {
+    "id": "sc-04",
+    "title": "Eksperimen Pembuatan Kompos Organik Asrama",
+    "category": "learning",
+    "student_name": "Kelompok Sains Ekologi",
+    "grade": "Kelas 8 SMP",
+    "summary": "Pemanfaatan sisa sayuran dapur asrama menjadi pupuk kompos ramah lingkungan untuk kebun sekolah.",
+    "media_type": "image",
+    "tag": "Laboratorium Alam",
+    "privacy_consent_verified": true,
+    "published_at": "Agustus 2026"
+  },
+  {
+    "id": "sc-05",
+    "title": "Latihan Bersama Panahan Tradisional Antar-Halaqah",
+    "category": "sports",
+    "student_name": "Klub Panahan Santri",
+    "grade": "Kelas 7 - 9 SMP",
+    "summary": "Kegiatan rutin mengasah ketenangan jiwa, disiplin pernapasan, dan konsentrasi membidik sasaran 20 meter.",
+    "media_type": "image",
+    "tag": "Olahraga Sunnah",
+    "privacy_consent_verified": true,
+    "published_at": "September 2026"
+  },
+  {
+    "id": "sc-06",
+    "title": "Aksi Bersih Sungai & Penanaman 100 Pohon Cisarua",
+    "category": "events",
+    "student_name": "Santri Peduli Lingkungan",
+    "grade": "Seluruh Jenjang",
+    "summary": "Bakti sosial santri bersama masyarakat lokal membersihkan sempadan sungai dan menanam bibit pohon pelindung.",
+    "media_type": "image",
+    "tag": "Khidmat Sosial",
+    "privacy_consent_verified": true,
+    "published_at": "Juli 2026"
+  },
+  {
+    "id": "sc-07",
+    "title": "Medali Emas Olimpiade Sains Pelajar Tingkat Nasional",
+    "category": "achievement",
+    "student_name": "Fariq Az-Zubair",
+    "grade": "Kelas 8 SMP",
+    "summary": "Prestasi membanggakan dalam kompetisi sains terapan dan ekologi antarpelajar tingkat nasional.",
+    "media_type": "image",
+    "tag": "Juara 1 Nasional",
+    "privacy_consent_verified": true,
+    "published_at": "September 2026"
+  }
+]
